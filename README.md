@@ -7,9 +7,8 @@ The series is loosely progressive - each implementation builds upon the previous
 In each cpp file I added a short description where I summarize what that particular part is about. I also included the notes I kept while watching the videos and implementing them.
 
 There are a few dependencies:
-
-all implementations are built upon the olcPixelGameEngine.h header file by JavidX9 - see: https://github.com/OneLoneCoder/olcPixelGameEngine
-for some of the implementations you need some sprite or file. I uploaded my own sprites and textures to this repo, but you can use your own if you want. Adapt the file name in the code to match your needs.
+1. all implementations are built upon the olcPixelGameEngine.h header file by JavidX9 - see: https://github.com/OneLoneCoder/olcPixelGameEngine
+2. for some of the implementations you need some sprite or file. I uploaded my own sprites and textures to this repo, but you can use your own if you want. Adapt the file name in the code to match your needs.
 
 NOTE: this code may very well contain bugs. If you have ideas or contributions on how to solve these, you are more than welcome :)
 
